@@ -12,7 +12,7 @@
 
  **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/SuganyaNammalvar/Excel-Sales-Performance-Report/blob/main/Market%20Vs%20Target%20Performance.pdf)
 
- - **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities.
+**Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities.
 
  ## Finance Report :
 
