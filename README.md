@@ -19,10 +19,10 @@
  **Purpose of sales analytics:** Evaluation of financial Performance,support decision making and communication with stakeholders.
  **Importance:** Analyzing financial data,previous period foundation for budgeting and forecasting. 
 
- *1.** Create Profit and Loss (P&L) reports by _[Fiscal Months]
+ *1.** Create Profit and Loss (P&L) reports by [Fiscal Months]
  (https://github.com/SuganyaNammalvar/Excel-Sales-Performance-Report/blob/main/P%26L%20statement%20By%20Fiscal%20Month.pdf)
 
- **2.** Create Profit and Loss (P&L) reports by _[Year](https://github.com/SuganyaNammalvar/Excel-Sales-Performance-Report/blob/main/P%26L%20statement%20By%20Fiscal%20Year.pdf)
+ **2.** Create Profit and Loss (P&L) reports by [Year](https://github.com/SuganyaNammalvar/Excel-Sales-Performance-Report/blob/main/P%26L%20statement%20By%20Fiscal%20Year.pdf)
 
  #Technical:
 - 	Proficiency in ETL methodology (Extract, Transform, Load).
