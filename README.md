@@ -8,9 +8,9 @@
 
 **Importance:** Identify sales patterns and track Key Performance Indicators(KPI'S).
 
-**1.** Create a_[Customer Performance Report](https://github.com/SuganyaNammalvar/Excel-Sales-Performance-Report/blob/main/Customer%20Performace%20Report.pdf)
+**1.** Create a [Customer Performance Report](https://github.com/SuganyaNammalvar/Excel-Sales-Performance-Report/blob/main/Customer%20Performace%20Report.pdf)
 
- **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/SuganyaNammalvar/Excel-Sales-Performance-Report/blob/main/Market%20Vs%20Target%20Performance.pdf)
+ **2.** Conduct a comprehensive comparison between market performance and sales targets](https://github.com/SuganyaNammalvar/Excel-Sales-Performance-Report/blob/main/Market%20Vs%20Target%20Performance.pdf)
 
 **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities.
 
