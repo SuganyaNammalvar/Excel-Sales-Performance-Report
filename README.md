@@ -22,6 +22,7 @@
  *1.** Create Profit and Loss (P&L) reports by [Fiscal Months](https://github.com/SuganyaNammalvar/Excel-Sales-Performance-Report/blob/main/P%26L%20statement%20By%20Fiscal%20Month.pdf)
 
  **2.** Create Profit and Loss (P&L) reports by [Year](https://github.com/SuganyaNammalvar/Excel-Sales-Performance-Report/blob/main/P%26L%20statement%20By%20Fiscal%20Year.pdf)
+ 
  #Technical:
 - 	Proficiency in ETL methodology (Extract, Transform, Load).
 - 	Skills to generate a date table using Power Query.
